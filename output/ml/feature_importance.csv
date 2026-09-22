@@ -1,0 +1,16 @@
+feature,importance
+categorical__Event Notes_Lack of storage,0.46968742238903305
+numeric__fail_day_of_week,0.09362570420691262
+numeric__fail_month_number,0.0828549368316435
+categorical__Event Notes_Hardware issue,0.07589248020871459
+categorical__Office_Brisbane,0.057771176432912824
+categorical__Asset ID_402,0.04658203832607081
+categorical__Event Notes_Insufficient memory,0.030488284476290903
+categorical__Office_Macquarie Park,0.01899806011345049
+categorical__Asset ID_103,0.01461922892178766
+categorical__Asset ID_301,0.013707409403431212
+categorical__Office_Melbourne,0.013307846870952818
+categorical__Asset ID_205,0.011041032894632524
+categorical__Office_Wellington,0.01027954072924247
+categorical__Office_Lidcombe,0.009592303249718936
+categorical__Event Notes_Lack of power supply,0.008685069455721643

@@ -1,0 +1,9 @@
+Event Notes,failures,total_downtime_minutes,average_downtime_minutes
+Lack of storage,5,1621.0,324.2
+Network down (WAN),8,1275.0,159.375
+Hardware issue,6,1263.0,210.5
+Insufficient memory,9,808.0,89.77777777777777
+Software services conflict,4,529.0,132.25
+Lack of power supply,3,489.0,163.0
+Network down (LAN),4,243.0,60.75
+Corruption of available storage,1,156.0,156.0
